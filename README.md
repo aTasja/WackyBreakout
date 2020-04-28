@@ -1,5 +1,6 @@
 # WackyBreakout
-Unity2D application
+Unity2D application.
+
 To play --> https://a-tasja.itch.io/wacky
 
 Some screenshots:
